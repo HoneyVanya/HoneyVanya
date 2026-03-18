@@ -2,9 +2,9 @@
 
 ### A passionate Backend Software Engineer from Belgrade, Serbia
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=HoneyVanya&theme=radical&column=7&margin-w=15&margin-h=15&v=1" alt="GitHub Trophies" />
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HoneyVanya&theme=radical&hide_border=true&bg_color=0D1117" alt="Ivan's Activity Graph" width="100%" />
   </a>
 </p>
 
