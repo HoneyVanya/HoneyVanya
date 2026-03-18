@@ -2,9 +2,9 @@
 
 ### A passionate Backend Software Engineer from Belgrade, Serbia
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HoneyVanya&theme=radical&hide_border=true&bg_color=0D1117" alt="Ivan's Activity Graph" width="100%" />
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=316192&vCenter=true&width=500&lines=Backend+Software+Engineer;Node.js,+TypeScript,+NestJS;Building+Scalable+APIs;Focusing+on+Hexagonal+Architecture" alt="Typing SVG" />
   </a>
 </p>
 
