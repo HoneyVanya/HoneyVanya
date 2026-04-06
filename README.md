@@ -2,7 +2,7 @@
 
 <!-- Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=14&pause=1000&color=534AB7&center=true&vCenter=true&width=600&lines=Problem-Solver+%C2%B7+Backend+Engineer;Building+Scalable+APIs+%26+Clean+Architectures;Hexagonal+Architecture+%7C+DDD+%7C+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=14&pause=1000&color=534AB7&center=true&vCenter=true&width=600&lines=Architect+%C2%B7+Backend+Engineer;Building+Scalable+APIs+%26+Clean+Architectures;Hexagonal+Architecture+%7C+DDD+%7C+Node.js" alt="Typing SVG" />
 </a>
 
 # Hi, I'm Ivan 👋
