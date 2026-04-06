@@ -34,8 +34,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoneyVanya&show_icons=true&theme=radical" alt="Ivan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoneyVanya&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HoneyVanya&show_icons=true&theme=radical&v=1" alt="Ivan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoneyVanya&layout=compact&theme=radical&v=1" alt="Top Languages" width="48%" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoneyVanya&theme=radical" alt="GitHub Streak" />
