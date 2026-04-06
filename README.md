@@ -21,7 +21,7 @@
 | 🌱 **Learning** | Deepening expertise in **Hexagonal Architecture** & **Domain-Driven Design** |
 | 🤝 **Collaborating** | Open to **open-source Node.js / TypeScript** projects |
 | 💬 **Ask me about** | NestJS, Express, AWS deployments & PostgreSQL |
-| 📫 **Reach me** | bad.batareika@gmail.com |
+| 📫 **Reach me** | bad.batareika@gmail.com @HoneyVanya |
 
 ---
 
